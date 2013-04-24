@@ -3,20 +3,18 @@ Events.java
 
 LightSpeedWorks pages {光速工房}
 
-events.EventEmitter class
-
-Light event processing Library for Java (like Node.js)
-
+events.EventEmitter class <br/>
+Light event processing Library for Java (like Node.js)  <br/>
 {軽量イベント処理ライブラリ(Java向け) - Node.js風}
 
 LightSpeedC (Kazuaki Nishizawa; 西澤 和晃)
 
 [LightSpeedWorks/Events.java#readme] (https://github.com/LightSpeedWorks/Events.java#readme)
 
-http://nodejs.org/api/events.html
+http://nodejs.org/api/events.html  <br/>
 http://nodejs.jp/nodejs.org_ja/api/events.html (Japanese)
 
-http://yand.info/?p=/docs/events.html#Events
+http://yand.info/?p=/docs/events.html#Events  <br/>
 http://jp.yand.info/?p=/docs/events.html#Events (Japanese)
 
 ## usage: {使用方法:}
