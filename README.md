@@ -46,7 +46,7 @@ import com.lightspeedworks.events.EventEmitter;
         throw new Error("insufficient arguments");
 
       System.out.print("callback:");
-      for (String arg : args)
+      for (Object arg : args)
         System.out.print(" " + arg);
       System.out.println();
     }
