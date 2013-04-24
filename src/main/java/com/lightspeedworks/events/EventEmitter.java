@@ -122,7 +122,11 @@ public class EventEmitter {
 	 * remove all listeners
 	 */
 	public void removeAllListeners() {
-		for (String event : events.keySet())
+		String[] events = new String[this.events.size()];
+		int i = 0;
+		for (String event : this.events.keySet())
+			events[i++] = event;
+		for (String event : events)
 			removeAllListeners(event);
 	}
 
