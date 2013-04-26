@@ -1,7 +1,7 @@
 Events.java
 ==========================
 
-LightSpeedWorks pages {光速工房}
+LightSpeedWorks {光速工房}
 
 events.EventEmitter class <br/>
 Light event processing Library for Java (like Node.js)  <br/>
