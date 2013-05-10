@@ -1,6 +1,5 @@
 package com.lightspeedworks.events;
 
-
 /**
  * Event Emitter Work Main.
  *
